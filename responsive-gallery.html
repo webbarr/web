@@ -1,0 +1,65 @@
+<html>
+	<head>
+	<link rel="stylesheet" href="http://draft.www-webbarr-com.brace.io/css/glide-styles1.css">
+	<link rel="stylesheet" href="http://draft.www-webbarr-com.brace.io/css/glide-styles.css">
+		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="http://draft.www-webbarr-com.brace.io/js/jquery.glide.js"></script>
+
+		<style>
+
+			/* Bad and ugly reset */
+			*{ margin: 0; padding: 0; border: 0; }
+
+			body {
+				height: auto;
+				position: absolute;
+			}
+
+			.box {
+				width: 100%;
+				height: 100%;
+
+			}
+
+			.slideimg {
+			   max-width:100%;
+			   height:auto;
+			}
+
+      .slider-arrows {display:none;}
+      .slider-nav {display:none;}
+
+		</style>
+	</head>
+	<body>
+
+		<div class="slider">
+			<ul class="slides">
+				<li class="slide"><div class="box"><img class="slideimg" src="http://draft.www-webbarr-com.brace.io/img/app-1.png"></div></li>
+        <li class="slide"><div class="box"><img class="slideimg" src="http://draft.www-webbarr-com.brace.io/img/app-2.png"></div></li>
+        <li class="slide"><div class="box"><img class="slideimg" src="http://draft.www-webbarr-com.brace.io/img/app-3.png"></div></li>
+
+
+			</ul>
+		</div>
+
+		<script>
+			var glide = $('.slider').glide({
+					afterTransition: function() {
+						var currentSlide = this.currentSlide;
+						console.log(currentSlide);
+					}
+				}).data('api_glide');
+
+				$(window).on('keyup', function (key) {
+					if (key.keyCode === 13) {
+						glide.jump(3, console.log('Wooo!'));
+					};
+				});
+
+				$('.slideimg').on('click', function() {
+					console.log(glide.current());
+				});
+		</script>
+	</body>
+</html>
