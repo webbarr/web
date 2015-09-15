@@ -325,7 +325,7 @@ footer {
 }
 
 .initials{
-  color:#002A5A;
+  text-decoration: underline;
   font-weight:bold;
 }
 
@@ -1079,7 +1079,7 @@ footer {
 
 
 h1.massiveHeading {
-  margin:6% 0;
+  margin:8% 0;
   font-weight: 400;
   font-size: 4.5em;
 }
@@ -1111,6 +1111,7 @@ p {
   font-size:2.35em;
   /*color:#666;*/
   color:#fff;
+  margin-top:10%;
 }
 
 h2 {
