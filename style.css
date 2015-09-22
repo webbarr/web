@@ -1132,7 +1132,7 @@ footer {
 
 
 h1.massiveHeading {
-  margin:8% 0;
+  margin:12% 0;
   font-weight: 400;
   font-size: 4.5em;
 }
@@ -1204,7 +1204,7 @@ h2 {
 
 
 .icon {
-  padding:2% 5%;
+  padding:4% 5%;
 }
 
 .expanded .icon:before {
