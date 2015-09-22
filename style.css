@@ -204,7 +204,8 @@ ul {
   font-size:3.75em;
 }
 #blog{
-  font-family:'AvenirNextLTPro-Regular',serif;
+  font-family:'Avenir Next',serif;
+  font-weight:100;
 }
 
 .article-hed {
