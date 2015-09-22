@@ -163,11 +163,9 @@ ul {
   font-size: 6em;
   text-align: center;
   margin: 10% 0;
-  color:#002A5A;
+  color:#1800ff;
   margin-bottom:6%;
   font-weight:600;
-  /*font-family: 'futura-pt' sans-serif;*/
-  /*font-family: "proxima-nova";*/
   font-family:'AvenirNextLTPro-Medium', 'Helvetica Neue', sans-serif;
   letter-spacing:.0125em;
 }
