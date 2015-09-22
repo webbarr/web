@@ -1100,6 +1100,9 @@ section {
 #content-posts ul li .post-description:link {
   font-size:18px;
 }
+.site-width>a {
+  font-size: 18px;
+}
 }
 
 @media only screen and (max-width : 320px) {
