@@ -531,7 +531,6 @@ nav.expanded #navigation {
   font-size: 3em;
   font-weight: bold;
   padding: 0 15%;
-  /*font-family:'futura-pt' sans-serif;*/
   font-family: 'AvenirNextLTPro-Bold', 'proxima-nova', sans-serif;
   text-transform:lowercase;
 }
