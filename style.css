@@ -574,12 +574,12 @@ nav.expanded #navigation {
 
 /* icon colour */
 .icon:before, .icon:active:before {
-  color: #002A5A;
+  color: #1800ff;
 }
 
 /* changes colour on hover or keyboard focus */
 .icon:hover:before, .icon:focus:before {
-  color: ##FA1E64;
+  color: #FA1E64;
 }
 
 
