@@ -533,6 +533,7 @@ nav.expanded #navigation {
   padding: 0 15%;
   /*font-family:'futura-pt' sans-serif;*/
   font-family: 'AvenirNextLTPro-Bold', 'proxima-nova', sans-serif;
+  text-transform:lowercase;
 }
 
 /* subheading span styling */
@@ -545,9 +546,9 @@ nav.expanded #navigation {
   display: block;
 }
 
-#navigation ul li a:link {color:#002A5A;}
-#navigation ul li a {color:#002A5A;}
-#navigation ul li a:hover {color:#898A8D;}
+#navigation ul li a:link {color:#1800ff;}
+#navigation ul li a {color:#1800ff;}
+#navigation ul li a:hover {color:#FA1E64;}
 
 /* === MENU ICONS === */
 /* ================== */
@@ -581,7 +582,7 @@ nav.expanded #navigation {
 
 /* changes colour on hover or keyboard focus */
 .icon:hover:before, .icon:focus:before {
-  color: #555;
+  color: ##FA1E64;
 }
 
 
@@ -592,7 +593,7 @@ nav.expanded #navigation {
   font-family: 'Helvetica Neue', sans-serif;
   font-weight:100;
   font-size: 2.125em;
-  color:#898A8D;
+  color:#1800ff;
   padding-right: .15em;
 }
 
