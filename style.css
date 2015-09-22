@@ -951,9 +951,10 @@ a.lightbox-pano-close:after {
 
 
 #content-posts ul a {
-  font-size: 2.1em;
+  font-size: 1.85em;
   font-weight: bold;
-  font-family:'futura-pt' sans-serif;
+  font-family:'Avenir Next'
+  /*font-family:'futura-pt' sans-serif;*/
   text-rendering: optimizeLegibility;
 }
 
