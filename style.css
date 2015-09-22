@@ -1088,12 +1088,18 @@ section {
 }
 
 @media only screen
-    and (min-device-width : 375px)
+    and (min-device-width : 320px)
     and (max-device-width : 667px) {
 #content-posts {
     margin-left: 5%;
     width: 90%;
   }
+#content-posts ul span {
+  font-size:18px;
+}
+#content-posts ul li .post-description:link {
+  font-size:18px;
+}
 }
 
 @media only screen and (max-width : 320px) {
