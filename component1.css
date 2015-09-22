@@ -160,11 +160,11 @@
 .og-details a {
 	font-weight: 700;
 	font-size: .85em;
-	color:#002A5A;
+	color:#1800ff;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	padding: 10px 20px;
-	border: 1px solid #333;
+	border: 1px solid #1800ff;
 	display: inline-block;
 	margin: 30px 0 0;
 	font-family:"futura-pt",sans-serif;

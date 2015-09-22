@@ -172,6 +172,9 @@ ul {
 #about,#work,#blog {
   font-size:3.75em;
 }
+#blog{
+  font-family:'AvenirNextLTPro-lt', 'Helvetica Neue', sans-serif;
+}
 
 .article-hed {
   font-family: 'futura-pt' sans-serif;
@@ -936,15 +939,15 @@ a.lightbox-pano-close:after {
 }
 
 #content-posts ul li a:link {
-  color:#002A5A;
+  color:#1800ff;
 }
 
 #content-posts ul li a {
-  color:#002A5A;
+  color:#1800ff;
 }
 
 #content-posts ul li a:hover {
-  color:#898A8D;
+  color:#FA1E64;
 }
 
 #content-posts ul li .post-description {
