@@ -63,6 +63,25 @@ font-style: normal;
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'AvenirNextLTPro-Regular';
+    src: url('fonts/AvenirNextLTPro-Regular.eot');
+    src: url('fonts/AvenirNextLTPro-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/AvenirNextLTPro-Regular.woff') format('woff'),
+         url('fonts/AvenirNextLTPro-Regular.ttf') format('truetype'),
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AvenirNextLTPro-Bold';
+    src: url('fonts/AvenirNextLTPro-Bold.eot');
+    src: url('fonts/AvenirNextLTPro-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/AvenirNextLTPro-Bold.woff') format('woff'),
+         url('fonts/AvenirNextLTPro-Bold.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 .menu.icon {
   font-size: 1.5em;
