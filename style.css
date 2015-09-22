@@ -968,10 +968,10 @@ a.lightbox-pano-close:after {
 }
 
 #content-posts ul li .read-more {
-  font-family:'futura-pt' sans-serif;
-  text-decoration:underline;
-  color:#666;
-  font-size:.85em;
+  /*font-family:'futura-pt' sans-serif;*/
+  color:#FA1E64;
+  font-size:.75em;
+  font-style: italic;
 }
 
 #content-posts ul li .read-date {
