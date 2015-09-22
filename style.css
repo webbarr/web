@@ -50,8 +50,19 @@ font-style: normal;
          url('fonts/AvenirNextLTPro-Medium.svg#levirebrushedregular') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
+
+@font-face {
+    font-family: 'AvenirNextLTPro-lt';
+    src: url('fonts/AvenirNextLTPro-lt.eot');
+    src: url('fonts/AvenirNextLTPro-lt.eot?#iefix') format('embedded-opentype'),
+         url('fonts/AvenirNextLTPro-lt.woff') format('woff'),
+         url('fonts/AvenirNextLTPro-lt.ttf') format('truetype'),
+         url('fonts/AvenirNextLTPro-lt.svg#levirebrushedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 .menu.icon {
   font-size: 1.5em;
@@ -173,7 +184,7 @@ ul {
   font-size:3.75em;
 }
 #blog{
-  font-family:'AvenirNextLTPro-Regular',serif;
+  font-family:'AvenirNextLTPro-lt',serif;
 }
 
 .article-hed {
