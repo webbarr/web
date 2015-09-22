@@ -211,15 +211,13 @@ ul {
 }
 
 .massiveHeading {
-  font-size: 6em;
+  font-size: 5.5em;
   text-align: center;
   margin: 10% 0;
-  color:#1800ff;
+  color:#fff;
   margin-bottom:6%;
-  font-weight:400;
-  font-family:'Avenir Next',sans-serif;
-  /*font-family:'AvenirNextLTPro-Medium', 'Helvetica Neue', sans-serif;*/
-  letter-spacing:-.045em;
+  font-family:'AvenirNextLTPro-Medium', 'Helvetica Neue', sans-serif;
+  letter-spacing:-4px;
 }
 #about,#work,#blog {
   font-size:3.75em;
@@ -324,20 +322,13 @@ border-radius: 90px; /* Opera 10.5, IE 9 */
   text-align: center;
 }
 
-/*.massiveHeading:hover {
-  color:#00438E;
-} */
-
 .hp {
-  /*color:#666;*/
   color:#fff;
   text-align:center;
   font-weight:400;
-  font-size: 2.65em;
+  font-size: 2.5em;
   font-family: 'Avenir Next', 'Helvetica Neue', sans-serif;
   letter-spacing: -.0125em;
-  /*font-family: 'futura-pt' sans-serif;
-  letter-spacing: -1px;*/
 }
 
 #content {
