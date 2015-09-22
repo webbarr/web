@@ -368,17 +368,17 @@ margin-right: 28%;
 }
 
 #bio > form > button:hover {
-  color: #898A8D;
+  color: #FA1E64;
   background-color: #FFF;
-  border: 2px solid #898A8D;
+  border: 2px solid #FA1E64;
 }
 
 button {
 font-size: 1em;
 text-transform: uppercase;
 font-weight: 600;
-border: 2px solid #002A5A;
-color: #002A5A;
+border: 2px solid #1800ff;
+color: #1800ff;
 background: rgba(0, 0, 0, 0);
 line-height: 1em;
 padding: 0.6em 0.9em;
