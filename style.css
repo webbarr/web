@@ -973,6 +973,8 @@ a.lightbox-pano-close:after {
   font-size:.75em;
   font-style: italic;
 }
+a.read-more {color:#FA1E64;}
+a.read-more:hover {text-decoration: underline;}
 
 #content-posts ul li .read-date {
   font-family:'futura-pt' sans-serif;
