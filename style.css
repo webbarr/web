@@ -216,16 +216,13 @@ ul {
   margin: 10% 0;
   color:#1800ff;
   margin-bottom:6%;
-  font-weight:600;
-  font-family:'AvenirNextLTPro-Medium', 'Helvetica Neue', sans-serif;
-  letter-spacing:-.0125em;
+  font-weight:400;
+  font-family:'Avenir Next',sans-serif;
+  /*font-family:'AvenirNextLTPro-Medium', 'Helvetica Neue', sans-serif;*/
+  letter-spacing:-.045em;
 }
 #about,#work,#blog {
   font-size:3.75em;
-}
-#blog{
-  font-family:'Avenir Next',serif;
-  font-weight:300;
 }
 
 .article-hed {
