@@ -972,6 +972,7 @@ a.lightbox-pano-close:after {
   color:#FA1E64;
   font-size:.75em;
   font-style: italic;
+  text-decoration: underline;
 }
 a.read-more {color:#FA1E64!important;}
 a.read-more:hover {text-decoration: underline;}
