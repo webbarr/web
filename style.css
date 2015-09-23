@@ -332,9 +332,16 @@ border-radius: 90px; /* Opera 10.5, IE 9 */
   letter-spacing: -.0125em;
 }
 
+.new-home {
+  font-size:3em;
+  line-height:1.4;
+  font-family:Avenir Next, sans-serif;
+  color:#fff;
+}
+
 #content {
   max-width: 730px;
-  margin: 8% auto;
+  margin: 6% auto;
 }
 
 .cv {
@@ -1118,7 +1125,14 @@ nav {
   margin:5% auto;
 
 }
-
+.new-home{
+  font-size:2.5em;
+  line-height:1.35;
+  font-family:'Avenir Next', sans-serif;
+  color:#fff;
+  padding-left: 20px;
+  padding-right: 20px;
+}
 .menu-icon {
   font-size: 1.25em;
 }
