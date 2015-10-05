@@ -1057,6 +1057,12 @@ section {
 
 #content {
    max-width:600px;
+   margin:6% 25px;
+}
+#bio p {
+  font-family: "freight-text-pro" serif;
+  font-size: 1.2em;
+  line-height: 1.4em;
 }
 
 .massiveHeading {
