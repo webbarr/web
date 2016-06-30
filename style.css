@@ -199,7 +199,7 @@ p {
 }
 
 h2 {
-  font-family: 'futura-pt' sans-serif;
+  font-family: 'futura-pt', sans-serif;
   font-size: 1.75em;
   color:#141414;
   font-weight:700;
@@ -225,24 +225,25 @@ ul {
 }
 
 .article-hed {
-  font-family: 'futura-pt' sans-serif;
+  font-family:'Avenir Next', 'Helvetica Neue', sans-serif;
   font-size:1.7em;
-  color:#002A5A;
+  color:#1800ff;
   text-rendering: optimizeLegibility;
   margin-bottom: .25em;
 }
 
 .article-dek {
-  font-family: 'futura-pt' sans-serif;
-  font-size: 26px;
+  font-family:'Avenir Next', 'Helvetica Neue', sans-serif;
+  font-size: 24px;
   text-align: left;
-  color:#141414;
+  color: rgba(0,0,0,.8);
   font-weight:500;
   margin: 0;
+  letter-spacing: -.0125em;
 }
 
 .img-credit {
-  font-family: 'futura-pt' sans-serif;
+  font-family:'Avenir Next', 'Helvetica Neue', sans-serif;
   font-size:13px;
   text-transform:uppercase;
   color:#666;
@@ -252,7 +253,7 @@ ul {
 }
 
 .img-credit a {
-  font-family: 'futura-pt' sans-serif;
+  font-family:'Avenir Next', 'Helvetica Neue', sans-serif;
   font-size:13px;
   text-transform:uppercase;
   color:#666;
@@ -294,7 +295,7 @@ border-radius: 90px; /* Opera 10.5, IE 9 */
   position: relative;
   margin-top: 3%;
   margin-bottom: 6%;
-  font-family: "freight-text-pro" serif;
+  font-family: "freight-text-pro", serif;
 }
 
 #bio p {
@@ -312,7 +313,7 @@ border-radius: 90px; /* Opera 10.5, IE 9 */
   position: relative;
   margin-top: 3%;
   margin-bottom: 12%;
-  font-family: "freight-text-pro" serif;
+  font-family: "freight-text-pro", serif;
   font-size: 1.2em;
   line-height: 1.4em;
 }
@@ -959,13 +960,12 @@ a.lightbox-pano-close:after {
 #content-posts ul a {
   font-size: 1.85em;
   font-weight: bold;
-  font-family:'Avenir Next'
-  /*font-family:'futura-pt' sans-serif;*/
+  font-family:'Avenir Next', sans-serif;
   text-rendering: optimizeLegibility;
 }
 
 #content-posts ul span {
-  font-family: "freight-text-pro" serif;
+  font-family: "freight-text-pro", serif;
   font-size: 20px;
   line-height: 1.4em;
   color: #141414;
@@ -974,7 +974,6 @@ a.lightbox-pano-close:after {
 }
 
 #content-posts ul li .read-more {
-  /*font-family:'futura-pt' sans-serif;*/
   color:#FA1E64;
   font-size:.75em;
   font-style: italic;
@@ -984,7 +983,7 @@ a.read-more {color:#FA1E64!important;}
 a.read-more:hover {text-decoration: underline;}
 
 #content-posts ul li .read-date {
-  font-family:'futura-pt' sans-serif;
+  font-family:'Avenir Next', sans-serif;
   color:#666;
   font-size:.85em;
   margin-top: -.25em;
@@ -1060,7 +1059,7 @@ section {
    margin:6% 25px;
 }
 #bio p {
-  font-family: "freight-text-pro" serif;
+  font-family: "freight-text-pro", serif;
   font-size: 1.3em;
   line-height: 1.5em;
 }
@@ -1164,7 +1163,7 @@ footer {
 }
 
 #bioexpand p {
-  font-family: "freight-text-pro" serif;
+  font-family: "freight-text-pro", serif;
   font-size: 19px;
   line-height: 26px;
 }
@@ -1293,7 +1292,7 @@ margin-right:0;
 
 #bio {
   margin-bottom:25%;
-  font-family: "freight-text-pro" serif;
+  font-family: "freight-text-pro", serif;
   font-size: 19px;
   line-height: 26px;
 }
