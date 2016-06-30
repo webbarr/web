@@ -194,7 +194,8 @@ p {
   font-size:22px;
   line-height:1.55em;
   font-family: "freight-text-pro", serif;
-  color:#191919;
+  /*color:#191919;*/
+  color:#404040;
   -webkit-font-smoothing: antialiased;
 }
 
