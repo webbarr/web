@@ -193,7 +193,7 @@ p {
 .article-body {
   font-size:22px;
   line-height:1.55em;
-  font-family: "freight-text-pro" serif;
+  font-family: "freight-text-pro", serif;
   color:#191919;
   -webkit-font-smoothing: antialiased;
 }
