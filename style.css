@@ -978,6 +978,7 @@ a.lightbox-pano-close:after {
   font-size:.75em;
   font-style: italic;
   text-decoration: underline;
+  font-weight: 500;
 }
 a.read-more {color:#FA1E64!important;}
 a.read-more:hover {text-decoration: underline;}
@@ -1000,7 +1001,8 @@ a.read-more:hover {text-decoration: underline;}
 }
 
 #content-posts ul li a:hover {
-  color:#FA1E64;
+  color:#1800ff !important;
+  transition: border-color .3s linear,color .3s linear;
 }
 
 #content-posts ul li .post-description {
