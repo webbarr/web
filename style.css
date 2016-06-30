@@ -284,6 +284,7 @@ border-radius: 90px; /* Opera 10.5, IE 9 */
   font-size: 1.2em;
   max-width:750px;
   margin: 0;
+  color:#404040;
 }
 
 #bioexpand {
@@ -303,6 +304,7 @@ border-radius: 90px; /* Opera 10.5, IE 9 */
   text-transform: none;
   max-width:750px;
   margin: 0;
+  color:#404040;
 }
 
 #bio {
@@ -373,6 +375,7 @@ footer {
 }
 .copy-link:hover {
   color:#FA1E64;
+  transition: all .3s;
 }
 
 .initials{
