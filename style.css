@@ -379,8 +379,8 @@ footer {
 }
 
 .initials{
-  text-decoration: underline;
   color:#1800ff;
+  font-weight: bold;
 }
 
 #bioexpand > form {
