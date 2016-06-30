@@ -1083,21 +1083,24 @@ section {
 .article-hed {
   margin-bottom:.5em;
   padding-left: 1%;
-  padding-right: 1%;
-  line-height: 1.15;
+  line-height: 1.35;
+  font-size: 2em;
+  letter-spacing: .0125em;
+  text-align: center;
 }
 
 .article-dek {
-  font-size: 23px;
-  padding-left: 1%;
-  padding-right: 1%;
+  font-size: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
 }
 
 .article-body {
   margin-left: 1%;
   margin-right: 1%;
-  font-size: 23px;
-  line-height: 1.6em;
+  font-size: 22px;
+  line-height: 1.55em;
 }
 
 }
